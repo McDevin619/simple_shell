@@ -33,5 +33,5 @@ This project was compiled using gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *
       
       
    AUTHORS
-        Asrat Asmelash Tsehaye, Mintesnot Bekele
->>>>>>> 0430886279f02e2aec88d51b4a50033fc8201d01
+        PHILLIP ESUON QUACUE ABEKAH, Nashief Robertson Darko
+>>>>>>> 35f617937ed444eabc03019b2ac3c244d3197ef7
